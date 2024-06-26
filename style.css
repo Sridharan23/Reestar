@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+  font-family: "Montserrat", sans-serif;
+} 
+
+.title{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+   
+}
+.title__nav li{
+    list-style: none;
+    display: inline-block;
+    color: aliceblue;
+    padding-top: 5px;
+    
+
+
+}
+
+
+
+
+.item{
+    text-align: center;
+}
+
+
+ 
+.item__one{
+    border: black solid 5px;
+    display: inline-block;
+    width: 200px;
+    height: 450px;
+    vertical-align: top;
+    vertical-align: bottom;
+    
+
+}
+.item__two{
+    border: black solid 5px;
+    display: inline-block;
+    width: 200px;
+    height: 450px;
+    vertical-align:top;
+    vertical-align: bottom;
+
+}
+.item__three{
+    border: black solid 5px;
+    display: inline-block;
+    width: 200px;
+    height: 450px;
+    vertical-align: top;
+    vertical-align: bottom;
+}
+.item__four{
+    border: black solid 5px;
+    display: inline-block;
+    width: 200px;
+    height: 450px;
+    vertical-align: top;
+    vertical-align: bottom;
+    
+} 
+button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+
+
+
+.contact{
+    background-color: #000000;
+    color: white;
+    margin-top: 10px; 
+    text-align: center;
+}
+
+.table{
+    display: inline-block;
+    text-align: center;
+}
+
+#send{
+    display: block;
+    color: black;
+    background-color: yellow;
+    width: 600px;
+    margin-left: 500px;
+
+
+}
+#send:hover{
+    background-color: aliceblue;
+    color: blue;
+}
+
+button:hover{
+    background-color: rgb(211, 15, 15);
+    color: black;
+}
+
+
+
+
+
+
+
